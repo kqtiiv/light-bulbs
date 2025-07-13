@@ -15,16 +15,16 @@ function App() {
             Buy now. Illuminate your room with warm light.
           </p>
           <img
-            src="/hero.jpg"
+            src="hero.jpg"
             alt="KQ470 Bulb"
             className="mx-auto rounded-xl shadow-xl"
           />
         </section>
 
         <section id="about" className="py-16 px-6">
-          <div className="max-w-4xl mx-auto grid md:grid-cols-2 items-center">
+          <div className="max-w-4xl mx-auto grid md:grid-cols-2 items-center justify-center">
             <img
-              src="/light_bulb_sticker_1.png"
+              src="light_bulb_sticker_1.png"
               alt="lamp"
               className="rotate-20"
             />
